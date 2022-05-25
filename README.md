@@ -1,4 +1,4 @@
-# Poly.Tcp
+# Poly.Reactive
 a minimal reimplementation of the .NET Reactive Extensions for Unity and any C# (or .Net) project.
 
 ## Features
